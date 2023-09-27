@@ -78,7 +78,7 @@
     <!-- [Attributes by Finsweet] Disable scrolling -->
     <script defer src="https://cdn.jsdelivr.net/npm/@finsweet/attributes-scrolldisable@1/scrolldisable.js"></script>
 
-    <meta name="theme-color" content="#5423E7">
+    <meta name="theme-color" content="#f05a29">
     <meta name="facebook-domain-verification" content="bm0bicdg2zguzupklu6c3xtf2aeb54" />
     <!-- Twitter conversion tracking base code -->
     <script>
@@ -447,7 +447,7 @@
             /* Firefox */
             .nav_menu {
                 scrollbar-width: auto;
-                scrollbar-color: #ffffff #5423e7;
+                scrollbar-color: #ffffff #f05a29;
             }
 
             /* Chrome, Edge, and Safari */
@@ -462,7 +462,7 @@
             .nav_menu::-webkit-scrollbar-thumb {
                 background-color: #ffffff;
                 border-radius: 100px;
-                border: 3px solid #5423e7;
+                border: 3px solid #f05a29;
             }
 
             .nav_menu {
